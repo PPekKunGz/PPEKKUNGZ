@@ -80,7 +80,7 @@
 ###
 
 <h3 align="left">Hiii is me PPekKunGz</h3>
-<span>I am a Frontend Developer with a passion for web development and creating exceptional user experiences. I am always eager to learn and improve my skills. In my free time, I enjoy being a Minecraft Developer, experimenting with mods, and developing various systems for Minecraft servers to enhance the gameplay experience and introduce new features. Currently, I work at <a href="https://dimension-studio.net" target="_blank">Dimension Studio</a>, where I have the opportunity to collaborate with a talented team on exciting projects in the Minecraft Roleplay community.</span>
+<span>I am a Frontend Developer with a passion for web development and creating exceptional user experiences. I am always eager to learn and improve my skills. In my free time, I enjoy being a Minecraft Developer, experimenting with mods, and developing various systems for Minecraft servers to enhance the gameplay experience and introduce new features. Currently, I work at PPekKunGzDev, where I have the opportunity to collaborate with a talented team on exciting projects in the Minecraft Roleplay community.</span>
 
 ###
 
